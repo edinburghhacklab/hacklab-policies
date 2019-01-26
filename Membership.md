@@ -15,7 +15,7 @@
 
 ## Timescales
  * Unapproved application forms with no activity will be discarded after 3 months
- * Approved members will have 6 months to make their initial payment or their application will be discarded
+ * Approved applications will have 3 months to make their initial payment or their application will be discarded
 
 ## Joining fee
  * There is currently no joining fee
