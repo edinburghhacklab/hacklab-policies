@@ -52,7 +52,7 @@ Benefits
 Leaving
 -------
 * Members may resign in writing or by email, ending their current membership term at the end of their current
-   payment period
+  payment period
 * Members box and other property stored at the lab should be removed
 * Summerhall access tokens and resident cards should be returned
 
