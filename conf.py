@@ -16,7 +16,7 @@ language = None
 exclude_patterns = ['build', 'Thumbs.db', '.DS_Store']
 pygments_style = 'sphinx'
 
-html_theme = 'bizstyle'
+html_theme = 'sphinx_rtd_theme'
 html_title = project
 html_logo = 'logo.png'
 html_favicon = 'favicon.ico'
