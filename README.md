@@ -12,7 +12,7 @@ Style guide:
 
   * This document is intended to be read by ordinary users of the Hacklab.
   * Use plain English.
-  * Keep is simple.
+  * Keep it simple.
   * Policies should be proportional and realistic, or they will be ignored.
   * Don't spend time describing legal frameworks. If extra information is relevant to the directors, document it elsewhere and link to it in footnotes.
 
