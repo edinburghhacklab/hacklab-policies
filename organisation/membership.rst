@@ -6,13 +6,13 @@ Pre-application
 * Members should only offer people an application form (unless they ask for one) if they intend to sponsor that
   application
 * Members should emphasise to prospective members the need to get to know enough people at open nights so that
-  they will have at least two sponsors
+  they will have at least three sponsors
 
 Application
 -----------
 * New members must fill out an application form and give it to the membership secretary (via the mail tray)
 * The blurb from the form will be submitted to the members mailing list, asking for sponsors
-* Two sponsors are required to approve the applicant
+* Three sponsors are required to approve the applicant
 * New members will be announced on the members mailing list after their membership term is started
 
   * The announcement will include links to the new member guide and other areas of interest/current information
