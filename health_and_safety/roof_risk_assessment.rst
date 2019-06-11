@@ -13,7 +13,7 @@ patrons/staff/passers-by in the street not associated with the works being
 conducted. 
 
 
-..list-table:: Risk Assessment
+.. list-table:: Risk Assessment
   :header-rows: 1
   
   * - Hazard
