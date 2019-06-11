@@ -3,8 +3,8 @@ Risk Assessment for Roof Work
 
 This is a generic risk assessment which covers the majority of routine work
 conducted by Edinburgh Hacklab on the B-Block Flat Roof, primarily the
-installation and maintainence of amateur radio antennas and associated
-transmission/reception equipment, and for the installation and maintainence of
+installation and maintenance of amateur radio antennas and associated
+transmission/reception equipment, and for the installation and maintenance of
 other projects which may need to be elevated / have a clear view of the sky. 
 
 In this document, the term "Workers" applies to all persons authorised to access
@@ -25,12 +25,12 @@ conducted.
   * - Access to roof and equipment by unauthorised persons.
     - Members of the Public, Workers, Trespassers
     - Door to roof access is locked, with keys held by Summerhall management. Pole for "Loft Hatch" is stored away from the hatch itself, to prevent opportunistic trespassing.
-    -
+    -None / None Applicable
   * - Fragile Roof/Skylights/Vents
     - Workers, Building Occupants
     - None / None Applicable
     - Those accessing roofs to be made aware of the skylights/vents/other areas of weakness in the roof. 
-      The structural integrity of the roof of the building housing the decomissioned Air Handling equipment is not known - no work may be conducted on that roof.
+      The structural integrity of the roof of the building housing the decommissioned Air Handling equipment is not known - no work may be conducted on that roof.
   * - Hazardous emissions from chimneys / fume stacks 
     - Workers
     - Any chimneys / fume stacks are positioned at least 3 meters away from the work areas. Workers are advised not to work within a three meter radius of any fume stacks.
@@ -38,7 +38,7 @@ conducted.
   * - No or limited edge protection
     - Workers, Members of the Public
     - The B-Block roof has a parapet wall representing appropriate edge protection.
-    - The roof of the building housing the decomissioned Air Handling equipment has no such edge protection, and no provisions for fall arrest equipment. No work may be conducted there.
+    - The roof of the building housing the decommissioned Air Handling equipment has no such edge protection, and no provisions for fall arrest equipment. No work may be conducted there.
   * - Slippery roofs
     - Workers
     - Workers are to wear appropriate footwear when accessing roofs and exercise caution where roofs are wet, icy, or fouled in such a way that they become slippery.
@@ -74,7 +74,7 @@ conducted.
   * - UV Exposure / Heat
     - Workers
     - Workers to wear appropriate PPE and sun protection cream. Workers to avoid working in direct sunlight for prolonged periods, to take regular breaks, and to keep hydrated with fresh water.
-    -
+    -None / None Applicable
   * - Manual handling
     - Workers
     - Workers to apply "best practice" manual handling techniques.
