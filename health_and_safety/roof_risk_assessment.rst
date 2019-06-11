@@ -34,7 +34,7 @@ conducted.
     - If work adjacent to fume stacks is required, a respirator shall be worn. If possible, the equipment connected to the fume stack will be disconnected.
   * - No or limited edge protection
     - Workers, Members of the Public
-    - The B-Block roof has a parapet wall repsresenting appropriate edge protection.
+    - The B-Block roof has a parapet wall representing appropriate edge protection.
     - The roof of the building housing the decomissioned Air Handling equipment has no such edge protection, and no provisions for fall arrest equipment. No work may be conducted there.
   * - Slippery roofs
     - Workers
@@ -63,7 +63,7 @@ conducted.
 Good housekeeping throughout the roof work is very important - unsecured tools or equipment should never be left on parapet walls or roof edges   |
   * - Hot works on roofs
     - Workers
-    - No hot work is to be conducted - If hot work is required, a task-specific RAMS will be submitted.
+    - No hot work is to be conducted - If hot work is required, a task-specific Risk Assessment and Method Statement (RAMS) will be submitted.
     - None / None Applicable  
   * - Electrical hazards
     - Workers
