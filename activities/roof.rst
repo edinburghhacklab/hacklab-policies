@@ -3,7 +3,7 @@ B Block Roof Access
 
 Summerhall allow Hacklab Members to access the B Block Roof when required for Hacklab projects. Access is made from the top floor attic hatch outside ToneGarden which gains access to the air handling and lift plant.  
 
-The procedure for notifying Summerhall of access must always be followed and the  `Roof Access Risk Assessment <../health_and_safety/roof_risk_assessment>`_ must be fully understood and followed wto ensure the safety of those accessing the roof and the public.  No lone working is allowed.
+The procedure for notifying Summerhall of access must always be followed and the  `Roof Access Risk Assessment <../health_and_safety/roof_risk_assessment.rst>`_ must be fully understood and followed wto ensure the safety of those accessing the roof and the public.  No lone working is allowed.
 
 The access procedure was agreed with Summerhall on 28th May 2018 and the risk assessment shared on 11th June 2019.
 
