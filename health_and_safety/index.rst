@@ -9,3 +9,4 @@ Health and Safety
    intro
    electrical_safety
    hazardous_substances
+   roof_risk_assessment
