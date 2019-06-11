@@ -25,7 +25,7 @@ conducted.
   * - Access to roof and equipment by unauthorised persons.
     - Members of the Public, Workers, Trespassers
     - Door to roof access is locked, with keys held by Summerhall management. Pole for "Loft Hatch" is stored away from the hatch itself, to prevent opportunistic trespassing.
-    -None / None Applicable
+    - None / None Applicable
   * - Fragile Roof/Skylights/Vents
     - Workers, Building Occupants
     - None / None Applicable
@@ -74,7 +74,7 @@ conducted.
   * - UV Exposure / Heat
     - Workers
     - Workers to wear appropriate PPE and sun protection cream. Workers to avoid working in direct sunlight for prolonged periods, to take regular breaks, and to keep hydrated with fresh water.
-    -None / None Applicable
+    - None / None Applicable
   * - Manual handling
     - Workers
     - Workers to apply "best practice" manual handling techniques.
@@ -95,7 +95,7 @@ conducted.
     - Workers
     - Workers are to ensure they are able to keep in communication during the work, whether  by unaided voice, loudhailer, or radio communication (dependent on the circumstance). In addition, workers are to carry at least one radio tuned to the Summerhall channel at all times.
     - None / None Applicable
-  * - Decomissioned Air Handler Equipment
+  * - Decommissioned Air Handler Equipment
     - Members of the Public, Workers, Trespassers
-    - Power is disconnected from decomissioned AHU equipment.
+    - Power is disconnected from decommissioned AHU equipment.
     - None / None Applicable
