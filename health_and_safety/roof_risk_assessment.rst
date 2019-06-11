@@ -15,6 +15,8 @@ conducted.
 
 .. list-table:: Risk Assessment
   :header-rows: 1
+  :widths: 180 120 200 200
+
   
   * - Hazard
     - Person at Risk
