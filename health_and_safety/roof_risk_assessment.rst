@@ -23,6 +23,7 @@ conducted.
   * - Access to roof and equipment by unauthorised persons.
     - Members of the Public, Workers, Trespassers
     - Door to roof access is locked, with keys held by Summerhall management. Pole for "Loft Hatch" is stored away from the hatch itself, to prevent opportunistic trespassing.
+    -
   * - Fragile Roof/Skylights/Vents
     - Workers, Building Occupants
     - None / None Applicable
@@ -59,8 +60,7 @@ conducted.
   * - Falling Objects
     - Workers, members of the public
     - Where tools or equipment are being used adjacent to a roof edge and there is a risk of them falling and injuring persons below, those items must be attached to a safety lanyard.
-    - For additional safety, consider cordoning off the area below the roof edge to prevent injuries to pedestrians when working near roof edges for extended periods. 
-Good housekeeping throughout the roof work is very important - unsecured tools or equipment should never be left on parapet walls or roof edges   |
+    - For additional safety, consider cordoning off the area below the roof edge to prevent injuries to pedestrians when working near roof edges for extended periods. Good housekeeping throughout the roof work is very important - unsecured tools or equipment should never be left on parapet walls or roof edges
   * - Hot works on roofs
     - Workers
     - No hot work is to be conducted - If hot work is required, a task-specific Risk Assessment and Method Statement (RAMS) will be submitted.
@@ -72,6 +72,7 @@ Good housekeeping throughout the roof work is very important - unsecured tools o
   * - UV Exposure / Heat
     - Workers
     - Workers to wear appropriate PPE and sun protection cream. Workers to avoid working in direct sunlight for prolonged periods, to take regular breaks, and to keep hydrated with fresh water.
+    -
   * - Manual handling
     - Workers
     - Workers to apply "best practice" manual handling techniques.
