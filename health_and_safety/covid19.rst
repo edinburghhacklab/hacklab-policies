@@ -25,11 +25,11 @@ Symptoms of Coronavirus
 -----------------------
 We must be vigilant against the spread of coronavirus. It is important that all Hacklab users are aware of the symptoms of COVID-19. These are:
 
-- A raised temperature - either you feel hot to touch on your chest or back or a thermometer reads 37.8C or higher
-- A continuous cough - coughing a lot for an hour or more than three episodes of coughing in 24 hours
+- A raised temperature - either you feel hot to touch on your chest or back, or a thermometer reads 37.8C or higher
+- A continuous cough - coughing a lot for an hour, or more than three episodes of coughing in 24 hours
 - A loss or change to your sense of smell or taste – you've noticed you cannot smell or taste anything, or things smell or taste different to normal
 
-If you are experiencing **any** of the above symptoms then **DO NOT VISIT THE HACKLAB** and consult the NHS for advice
+If you are experiencing **any** of the above symptoms then **DO NOT VISIT THE HACKLAB** and consult the NHS for advice.
 
 Core Principles
 ----------------
@@ -86,7 +86,7 @@ The Hacklab Booking System is available at `https://booking.ehlab.uk/ <https://b
 
 We have initially set some limits which we will adjust as needed to ensure fairness. If you need to exceed these limits, please email the directors
 
-- You can only book 2 weeks in advance
+- You can only book a slot within the next two weeks
 - You are limited to 10 hours of uncompleted reservations per week. This ensures fair use by preventing large blocks of bookings. After your booking, this limit is reset
 - You can only book 50 hours per month in total
 - Bookings have a gap between them to reduce exposure risk
@@ -110,7 +110,7 @@ During Your Visit
 When you arrive:
 
 - You **MUST** wear a face covering on the premises at all times unless you have a medical exemption. This includes Summerhall areas. This applies within the work areas, even with exclusive use to ensure the safety for the next user. 
-- You **MUST** sanitise or wash your hands on arrival. Hand sanitiser is provided or soap and hot water are available in the G1 kitchen.
+- You **MUST** sanitise or wash your hands on arrival. Hand sanitiser is provided, and soap and hot water are available in the G1 kitchen.
 - You **MUST** use your token on all doors, even if they are on the snib. This allows us to log your visit for contact tracing. 
 - You **MUST** keep 2m from other users at all times unless they are a member of your household.
 - You **SHOULD** check your work area is clean before working. Cleaning products are provided if you wish to use them before starting work. Please email the directors if the place is untidy or unclean with photos if possible. This helps us chase the right people.
