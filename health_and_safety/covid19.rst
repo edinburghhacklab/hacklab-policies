@@ -58,13 +58,13 @@ We are currently only open to members and you **MUST NOT** bring visitors to the
 
 We have one exception to this rule where you would otherwise be lone working or require assistance with a project for health and safety reasons (e.g. manual handling). In this case, you **MAY** bring one member of your household (including any bubble) to assist you. If you require this exemption you MUST ensure that the household member has read this policy, completes contact tracing and that you book exclusive use of the room you are working.
 
-For any other exceptions, you **MUST** contact the Hacklab Directors for approval
+For any other exceptions, you **MUST** contact the Hacklab Directors for approval.
 
 Before Your Visit
 ^^^^^^^^^^^^^^^^^
 Please plan your visit carefully. As a Hacklab user you are responsible for managing your own risks and you may have specific health concerns making you more susceptible to COVID-19. You **SHOULD** consider the risks to yourself and whether your visit is necessary.
 
-- You **MUST NOT** attend the Hacklab if you hare required to self-isolate or quarantine (see below for details of when this is required)
+- You **MUST NOT** attend the Hacklab if you are required to self-isolate or quarantine (see below for details of when this is required)
 - You **MUST** check the current COVID-19 zones and travel guidance. If you live outside of the Edinburgh Council area then it may be illegal to travel to the Hacklab if either you or the Hacklab are in Level 3 or Level 4 zones. If you live inside the Edinburgh Council area you **SHOULD NOT** travel to the Hacklab unless absolutely necessary
 - You **MUST** book your use of the lab
 - You **MUST NOT** use the Hacklab for social meetups - please use a local cafe or similar
@@ -78,7 +78,7 @@ The current self-isolation and quarantine rules are
 - You **MUST** isolate for 10 days from the onset of symptoms.
 - If you have you have received a negative COVID-19 test following the onset of symptoms you **MAY** end your isolation if you have not had a fever for 48h 
 - You **MUST** isolate for 14 days if told to by the Test and Trace system, by the Protect Scotland application or if a member of your household develops coronavirus
-- You **MUST** quarantine for 14 days when arriving from certain countries. See `https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/ <https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/>`_ for details
+- You **MUST** quarantine for 14 days when arriving from certain countries. See `https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/ <https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/>`_ for details.
 
 How To Book
 ^^^^^^^^^^^
@@ -103,7 +103,7 @@ All spaces **MUST** be booked with the exception for necessary access to the kit
 
 For G1 and G8 we recognise that members who are at higher risk may require exclusive access to the room. You **MAY** book both areas if this is required although please note that access to the kitchen/shop may be required by other users. If you need an additional quota to do this then please let the directors know.
 
-If you cannot attend you **MUST** cancel your booking as soon as possible
+If you cannot attend you **MUST** cancel your booking as soon as possible.
 
 During Your Visit
 ^^^^^^^^^^^^^^^^^
