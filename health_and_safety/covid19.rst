@@ -87,7 +87,7 @@ The Hacklab Booking System is available at `https://booking.ehlab.uk/ <https://b
 We have initially set some limits which we will adjust as needed to ensure fairness. If you need to exceed these limits, please email the directors
 
 - You can only book a slot within the next two weeks
-- You are limited to 10 hours of uncompleted reservations per week. This ensures fair use by preventing large blocks of bookings. After your booking, this limit is reset
+- You are limited to a maximum of 10 hours of future reservations per week. This ensures fair use by preventing large blocks of bookings. As your bookings pass you can book more future slots, up to the 10 hour maximum.
 - You can only book 50 hours per month in total
 - Bookings have a gap between them to reduce exposure risk
 
