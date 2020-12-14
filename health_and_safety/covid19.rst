@@ -29,13 +29,13 @@ We must be vigilant against the spread of coronavirus. It is important that all 
 - A continuous cough - coughing a lot for an hour, or more than three episodes of coughing in 24 hours
 - A loss or change to your sense of smell or taste – you've noticed you cannot smell or taste anything, or things smell or taste different to normal
 
-If you are experiencing **any** of the above symptoms then **DO NOT VISIT THE HACKLAB** and consult the NHS for advice.
+If you are experiencing **any** of the above symptoms then **DO NOT VISIT THE HACKLAB** and consult the NHS for advice. A symptom checker is available at `https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19/ <https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19/>`_
 
 Core Principles
 ----------------
 Our policy is based on the following core principles
 
-- Follow the latest government guidance on opening, prevention and travel
+- Follow the latest government guidance that applies to creative spaces, studios and technology companies
 - Follow any requirements imposed by Summerhall
 - Risk assess activities
 - Advise users to keep their use of premises to essential use where possible and encourage "Hacking at Home"
@@ -46,39 +46,31 @@ Our policy is based on the following core principles
 
 COVID-19 Procedures
 -------------------
-The following procedures apply to all users visiting the Hacklab premises. The following words have special meaning
-
-- **MUST/MUST NOT** - A mandatory rule. Failure to follow these rules will result in a warning. Continued breaches will result in your access to facilities being suspended. These rules protect others from you.
-- **SHOULD/SHOULD NOT** - Strong guidance which we advise you to follow unless you have a good reason not to. These rules primarily protect you from others.
-- **MAY** - Optional guidance that you might want to consider to reduce risks further.
+The following procedures apply to all users visiting the Hacklab premises. These rules are mandatory for all users of the space unless specified as optional or advisory in the text.
 
 Who Can Use The Lab?
 ^^^^^^^^^^^^^^^^^^^^
-We are currently only open to members and you **MUST NOT** bring visitors to the Hacklab or allow access to the public. 
+We are currently only open to members and you must not bring visitors to the Hacklab or allow access to the public. 
 
-We have one exception to this rule where you would otherwise be lone working or require assistance with a project for health and safety reasons (e.g. manual handling). In this case, you **MAY** bring one member of your household (including any bubble) to assist you. If you require this exemption you MUST ensure that the household member has read this policy, completes contact tracing and that you book exclusive use of the room you are working.
+Where you would otherwise be lone working or require assistance with a project for health and safety reasons (e.g. manual handling) you may bring one member of your household (including any bubble) to assist you. If you require this exemption you must ensure that the household member has read this policy, completes contact tracing and that you book exclusive use of the room you are working.
 
-For any other exceptions, you **MUST** contact the Hacklab Directors for approval.
+If any other non-member requires access, please contact the Hacklab Directors for approval.
 
 Before Your Visit
 ^^^^^^^^^^^^^^^^^
-Please plan your visit carefully. As a Hacklab user you are responsible for managing your own risks and you may have specific health concerns making you more susceptible to COVID-19. You **SHOULD** consider the risks to yourself and whether your visit is necessary.
+Please plan your visit carefully. As a Hacklab user you are responsible for managing your own risks and you may have specific health concerns making you more susceptible to COVID-19. You should consider the risks to yourself and whether your visit is necessary.
 
-- You **MUST NOT** attend the Hacklab if you are required to self-isolate or quarantine (see below for details of when this is required)
-- You **MUST** check the current COVID-19 zones and travel guidance. If you live outside of the Edinburgh Council area then it may be illegal to travel to the Hacklab if either you or the Hacklab are in Level 3 or Level 4 zones. If you live inside the Edinburgh Council area you **SHOULD NOT** travel to the Hacklab unless absolutely necessary
-- You **MUST** book your use of the lab
-- You **MUST NOT** use the Hacklab for social meetups - please use a local cafe or similar
-- You **MAY** want to consider how you will get to the Hacklab. Walking, cycling or car are lower risk than using public transport
-- You **MAY** want to plan your work carefully as you **MUST** fully clear and tidy your work area before your booking ends
-- You **MAY** want to bring extra clothes as the Hacklab can be cold when windows are open for ventilation
-- You **SHOULD** bring your own PPE if you have it
+Rules:
+- You must book your use of the lab before entering the premises
+- Do not attend the Hacklab if you are required to self-isolate or quarantine (e.g. if you or a household member contracts Coronavirus, if contacted by Test and Trace or in the case of returning from travel)
+- Do not use the Hacklab for social meetups or entertaining. Due to the unsupervised nature of the premises, we are applying the guidance for indoor at-home meetings for social activities.
 
-The current self-isolation and quarantine rules are
-
-- You **MUST** isolate for 10 days from the onset of symptoms.
-- If you have you have received a negative COVID-19 test following the onset of symptoms you **MAY** end your isolation if you have not had a fever for 48h 
-- You **MUST** isolate for 14 days if told to by the Test and Trace system, by the Protect Scotland application or if a member of your household develops coronavirus
-- You **MUST** quarantine for 14 days when arriving from certain countries. See `https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/ <https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/>`_ for details.
+Advice
+- Check the current COVID-19 zones and travel guidance. Travel in and out of Zone 3 or Zone 4 is currently illegal
+- Consider how you will get to the Hacklab. Walking, cycling or car are lower risk than using public transport
+- Plan your work carefully as you must fully clear and tidy your work area before your booking ends
+- Consider bringing extra clothes as the Hacklab can be cold when windows are open for ventilation
+- Bring your own PPE if you have it
 
 How To Book
 ^^^^^^^^^^^
@@ -91,39 +83,40 @@ We have initially set some limits which we will adjust as needed to ensure fairn
 - You can only book 50 hours per month in total
 - Bookings have a gap between them to reduce exposure risk
 
-We have set a capacity on each room which **MUST** be respected to ensure 2m social distancing
+We have set a capacity on each room which must be respected to ensure 2m social distancing
 
-- G1 (Main space) - 2 work areas with access maintained for one person to use the kitchen and shop at any time
+- G1 (Main space) - Two people with access maintained for one person to use the kitchen/shop or pickup mail/printing at any time
 - G2 (Laser cutting) - Single occupancy only
-- G8 (Workshop) - 2 work areas. Please note in booking if you need any specific machines to help coordinate
+- G8 (Workshop) - Two people. Please note in booking if you need any specific machines to help coordinate
 - G11 (Storage, 3D printers and servers) - Single occupancy with access to storage area for one additional person. When 3D printing, please don't stay longer than necessary. If you need access to the store, knock first due to limited space.
 - G14 (Electronics) - Single occupancy only
 
-All spaces **MUST** be booked with the exception for necessary access to the kitchen, shop or storage.
+All spaces must be booked with the exception for necessary access to the kitchen, shop, printing, mail or storage.
 
-For G1 and G8 we recognise that members who are at higher risk may require exclusive access to the room. You **MAY** book both areas if this is required although please note that access to the kitchen/shop may be required by other users. If you need an additional quota to do this then please let the directors know.
+For G1 and G8 we recognise that members who are at higher risk may require exclusive access to the room. You may book both areas if this is required although please note that access to the kitchen/shop may be required by other users. If you need an additional quota to do this then please let the directors know.
 
-If you cannot attend you **MUST** cancel your booking as soon as possible.
+If you cannot attend you must cancel your booking as soon as possible to let others attend.
 
 During Your Visit
 ^^^^^^^^^^^^^^^^^
 When you arrive:
 
-- You **MUST** wear a face covering on the premises at all times unless you have a medical exemption. This includes Summerhall areas. This applies within the work areas, even with exclusive use to ensure the safety for the next user. 
-- You **MUST** sanitise or wash your hands on arrival. Hand sanitiser is provided, and soap and hot water are available in the G1 kitchen.
-- You **MUST** use your token on all doors, even if they are on the snib. This allows us to log your visit for contact tracing. 
-- You **MUST** keep 2m from other users at all times unless they are a member of your household.
-- You **SHOULD** check your work area is clean before working. Cleaning products are provided if you wish to use them before starting work. Please email the directors if the place is untidy or unclean with photos if possible. This helps us chase the right people.
-- You **SHOULD** open windows or turn on the G8 fan to ensure rooms are well ventilated.
+- You must wear a face covering on the premises at all times unless you have a medical exemption including within Summerhall communal areas. The rule applies within the work areas, even with exclusive use to ensure the safety for the next user. 
+- You must sanitise or wash your hands on arrival. Hand sanitiser is provided, and soap and hot water are available in the G1 kitchen.
+- You must use your token on all doors, even if they are on the snib. This allows us to log your visit for contact tracing. 
+- You must keep 2m from other users at all times unless they are a member of your household.
+- You must open windows or turn on the G8 fan to ensure rooms are well ventilated.
+
+Please check your work area is clean before working. Cleaning products are provided if you wish to use them before starting work. Please email the directors if the place is untidy or unclean with photos if possible. This helps us chase the right people. If someone without a booking is using the area, please safely ask them to clear up and leave and inform the directors.
 
 During your visit:
 
-- You **MUST** knock and stand back from a door if you need access to another room (e.g. for a tool or accessing storage). Leave enough time for the user to answer before entering
+- Please knock and stand back from a door if you need access to another room (e.g. for a tool or accessing storage). Leave enough time for the user to answer before entering
 - If you require the toilet you **MUST** ensure single occupancy and wash hands thoroughly
 - If you need to give first aid to another user, gloves and a mask **MUST** be worn. If possible, you **SHOULD** help the casualty to treat themselves while maintaining a distance. All accidents or illness **MUST** be reported immediately to the directors.
 - You **SHOULD** regularly sanitise or wash your hands
 - Any waste, especially where it may be contaminated with bodily fluids (e.g. tissues, paper towels, bottles and cans) **MUST** be placed in the bins. Bins will be regularly emptied by cleaners. If they are full, gloves and a mask **SHOULD** be work when emptying them and hands thoroughly cleaned afterwards
-- You **SHOULD** avoid touching your face or face mask
+- Avoid touching your face or face mask
 - You **MUST** use single use or personal PPE where possible. Disposable earplugs are provided and all users may take one pair of safety glasses for their personal use (please keep in your storage box). Please contact the directors regarding Welding operations or the Grinding shields for a specific risk assessment and safe cleaning procedure.
 
 Before the end of the booking
