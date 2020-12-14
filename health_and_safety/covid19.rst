@@ -44,6 +44,17 @@ Our policy is based on the following core principles
 - Enforce preventative measures (e.g. hand cleaning, mask use etc)
 - Carry out contact tracing should the need arise
 
+What We Are Doing
+-----------------
+The directors are taking a proactive approach to safety. We
+
+- Have carried out and risk assessments of activities which will be under review
+- Are keeping up to date with guidance
+- Have placed hand sanitiser in all rooms and installed hot water to G1 for hand washing
+- Have setup a booking system to ensure a maximum capacity is maintained
+- Are investigating a regular cleaning contract and have supplied cleaning materials
+- Have created this policy for users of the space
+
 COVID-19 Procedures
 -------------------
 The following procedures apply to all users visiting the Hacklab premises. These rules are mandatory for all users of the space unless specified as optional or advisory in the text.
@@ -99,34 +110,40 @@ If you cannot attend you must cancel your booking as soon as possible to let oth
 
 During Your Visit
 ^^^^^^^^^^^^^^^^^
-When you arrive:
+When you arrive, please follow any one way systems or directions given by Summerhall staff. Access may be made through the side gate or by reception.
 
-- You must wear a face covering on the premises at all times unless you have a medical exemption including within Summerhall communal areas. The rule applies within the work areas, even with exclusive use to ensure the safety for the next user. 
-- You must sanitise or wash your hands on arrival. Hand sanitiser is provided, and soap and hot water are available in the G1 kitchen.
-- You must use your token on all doors, even if they are on the snib. This allows us to log your visit for contact tracing. 
-- You must keep 2m from other users at all times unless they are a member of your household.
-- You must open windows or turn on the G8 fan to ensure rooms are well ventilated.
+Rules:
 
-Please check your work area is clean before working. Cleaning products are provided if you wish to use them before starting work. Please email the directors if the place is untidy or unclean with photos if possible. This helps us chase the right people. If someone without a booking is using the area, please safely ask them to clear up and leave and inform the directors.
-
-During your visit:
-
+- Wear a face covering on the premises at all times unless you have a medical exemption including within Summerhall communal areas. The rule applies within the work areas, even with exclusive use to ensure the safety for the next user. 
+- Sanitise or wash your hands on arrival. Hand sanitiser is provided, and soap and hot water are available in the G1 kitchen.
+- Use your token on all doors, even if they are on the snib. This allows us to log your visit for contact tracing. 
+- Keep 2m from other users at all times unless they are a member of your household.
+- Open windows or turn on the G8 fan to ensure rooms are well ventilated.
 - Please knock and stand back from a door if you need access to another room (e.g. for a tool or accessing storage). Leave enough time for the user to answer before entering
-- If you require the toilet you **MUST** ensure single occupancy and wash hands thoroughly
-- If you need to give first aid to another user, gloves and a mask **MUST** be worn. If possible, you **SHOULD** help the casualty to treat themselves while maintaining a distance. All accidents or illness **MUST** be reported immediately to the directors.
-- You **SHOULD** regularly sanitise or wash your hands
-- Any waste, especially where it may be contaminated with bodily fluids (e.g. tissues, paper towels, bottles and cans) **MUST** be placed in the bins. Bins will be regularly emptied by cleaners. If they are full, gloves and a mask **SHOULD** be work when emptying them and hands thoroughly cleaned afterwards
+- Use single use or personal PPE where possible. Disposable earplugs are provided and all users may take one pair of safety glasses for their personal use (please keep in your storage box). Please contact the directors regarding Welding operations or the Grinding shields for a specific risk assessment and safe cleaning procedure.
+- Do not stay beyond your booking
+- Before leaving, fully tidy your work (take it home or leave it in your storage box) and clean your work area including any tools, equipment and PPE used
+- Close windows and doors at the end of your visit for security
+
+Guidance:
+
+- Check your work area is clean before working. Cleaning products are provided if you wish to use them before starting work. Please email the directors if the place is untidy or unclean with photos if possible. This helps us chase the right people. 
+- If someone without a booking is using the area, please safely ask them to clear up and leave and inform the directors.
+- If you require the toilet, ensure single occupancy and wash hands thoroughly after use
+- Regularly sanitise or wash your hands during the visit
+- Any waste, especially where it may be contaminated with bodily fluids (e.g. tissues, paper towels, bottles and cans) must be placed in the bins. Gloves and a mask should be work when emptying bins and hands thoroughly cleaned afterwards
 - Avoid touching your face or face mask
-- You **MUST** use single use or personal PPE where possible. Disposable earplugs are provided and all users may take one pair of safety glasses for their personal use (please keep in your storage box). Please contact the directors regarding Welding operations or the Grinding shields for a specific risk assessment and safe cleaning procedure.
+- Doors can be left open to increase ventilation and air the room while tidying
+- Leave plenty of time to clean and tidy your work area
+- Consider installing the Protect Scotland App on your phone.
 
-Before the end of the booking
 
-- You **MUST** leave yourself plenty of time to clean and tidy your work area
-- You **MUST** fully tidy your work (take it home or leave it in your storage box) and clean your work area
-- You **SHOULD** open the room door while cleaning up to increase ventilation
-- You **MUST** close windows at the end of your visit for security
+In An Emergency
+^^^^^^^^^^^^^^^
+- If you need to give first aid to another user, gloves and a mask must be worn. If possible, you should help the casualty to treat themselves while maintaining a distance. All accidents or illness must be reported immediately to the directors.
+- In the event of a fire, please exit the building promptly by the nearest fire exit. Maintain 2m social distancing at the muster point
 
 
 After Your Visit
 ^^^^^^^^^^^^^^^^
-If you develop COVID-19 symptoms in the 10 days following your visit you **MUST** email the directors to enable contact tracing to take place.
+If you develop COVID-19 symptoms in the 10 days following your visit you must email the directors to enable contact tracing to take place. This is in addition to carrying out the notifications to NHS Test and Trace to enable us to take a proactive approach,
