@@ -52,7 +52,7 @@ The directors are taking a proactive approach to safety. We
 - Are keeping up to date with guidance
 - Have placed hand sanitiser in all rooms and installed hot water to G1 for hand washing
 - Have setup a booking system to ensure a maximum capacity is maintained
-- Are investigating a regular cleaning contract and have supplied cleaning materials
+- Started a regular cleaning contract with Daybreak and have supplied cleaning materials for members
 - Have created this policy for users of the space
 
 COVID-19 Procedures
