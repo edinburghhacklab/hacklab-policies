@@ -182,7 +182,7 @@ What to do:
 
 - Inform the directors
 
-What the directors will do
+What the directors will do:
 
 - Investigate the situation (e.g. check door logs) and speak to users
 - In the first instance, remind members of the rules and gain agreement that they will comply in future
@@ -207,7 +207,7 @@ What to do:
 - Make yourself safe
 - Inform the directors immediately
 
-What the directors will do
+What the directors will do:
 
 - Temporarily suspend access
 - Investigate the situation and interview those concerned
