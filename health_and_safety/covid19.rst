@@ -137,13 +137,80 @@ Guidance:
 - Leave plenty of time to clean and tidy your work area
 - Consider installing the Protect Scotland App on your phone.
 
-
 In An Emergency
 ^^^^^^^^^^^^^^^
 - If you need to give first aid to another user, gloves and a mask must be worn. If possible, you should help the casualty to treat themselves while maintaining a distance. All accidents or illness must be reported immediately to the directors.
 - In the event of a fire, please exit the building promptly by the nearest fire exit. Maintain 2m social distancing at the muster point
 
-
 After Your Visit
 ^^^^^^^^^^^^^^^^
-If you develop COVID-19 symptoms in the 10 days following your visit you must email the directors to enable contact tracing to take place. This is in addition to carrying out the notifications to NHS Test and Trace to enable us to take a proactive approach,
+If you develop COVID-19 symptoms in the 10 days following your visit you must email the directors to enable contact tracing to take place. This is in addition to carrying out the notifications to NHS Test and Trace to enable us to take a proactive approach.
+
+Enforcement
+-----------------
+We hope that all members will abide by these rules as they are designed to keep you and other members of the Hacklab community safe. We understand that guidance may change at short notice and behaviour change is hard so mistakes will be made. We hope minor issues can be dealt with by looking out for each other and reminding others to stay safe. In the event of more serious or repeated rule breaking, the directors will be forced to take action to comply with our legal obligations and ensure we may keep the lab open.
+
+Minor Issues
+^^^^^^^^^^^^
+We hope minor issues can be dealt with by way of a reminder from other users
+
+Examples:
+
+- Forgetting to wear a mask unless exempt
+- Entering a room at capacity
+- Hygiene issues
+- Minor social distancing failures (while wearing masks)
+
+What to do:
+
+- In the first instance, remind other users of the expectations in this policy from a safe distance.
+- Inform the directors of refusal or continued breaches
+
+Moderate Breaches
+^^^^^^^^^^^^^^^^^
+We operate a three strikes policy with increasing severity. If you find issues such as housekeeping and tidiness when you arrive at your booking or if someone else is using the space, please email the directors with a picture so we can check who was responsible.
+
+Examples:
+
+- Repeated minor breaches
+- Failure to use the booking system
+- Next user finds room untidy/unclean
+- Leaving the premises unsecure (e.g. closing windows at end of booking)
+- Failure to follow government guidance (e.g. travel restrictions)
+
+What to do:
+
+- Inform the directors
+
+What the directors will do
+
+- Investigate the situation (e.g. check door logs) and speak to users
+- In the first instance, remind members of the rules and gain agreement that they will comply in future
+- In the second instance, issue a final warning that behaviour must improve and any further incidents within a specified time will result in further action. The time period is at the discretion of the directors
+- A third breach will result in temporary suspension of membership and removal from the access control and booking systems for a time at the discretion of the directors. Membership payments will not be due for any suspension longer than 1 month
+- On return, conditions may be issued to ensure improved behaviour. Continued non-compliance may result in termination of membership.
+
+Serious Breaches
+^^^^^^^^^^^^^^^^^
+Any serious issues should be immediately brought to the directors as they may require rapid action. Access may be temporarily suspended pending investigation
+
+Examples:
+
+- Blatant refusal to comply with COVID policies (e.g. large groups using the lab, parties, putting others in immediate harm)
+- Using the lab with COVID symptoms or while you should be isolating
+- Breaches of COVID laws
+- Violence, abuse or harassment of other members or Summerhall staff/residents
+- Intentional endangerment of others 
+
+What to do:
+
+- Make yourself safe
+- Inform the directors immediately
+
+What the directors will do
+
+- Temporarily suspend access
+- Investigate the situation and interview those concerned
+- Take appropriate action
+- On return, conditions may be issued to ensure improved behaviour. Continued non-compliance may result in termination of membership.
+
