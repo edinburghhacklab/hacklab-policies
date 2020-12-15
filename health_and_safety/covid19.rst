@@ -114,7 +114,7 @@ When you arrive, please follow any one way systems or directions given by Summer
 
 Rules:
 
-- Wear a face covering on the premises at all times unless you have a medical exemption including within Summerhall communal areas. The rule applies within the work areas, even with exclusive use to ensure the safety for the next user. 
+- Wear a face covering on the premises at all times, unless you have a medical exemption. This includles within Summerhall corridors and communal areas. The rule applies within the work areas, even with exclusive use, to ensure the safety for the next user. 
 - Sanitise or wash your hands on arrival. Hand sanitiser is provided, and soap and hot water are available in the G1 kitchen.
 - Use your token on all doors, even if they are on the snib. This allows us to log your visit for contact tracing. 
 - Keep 2m from other users at all times unless they are a member of your household.
