@@ -68,6 +68,7 @@ The following procedures apply to all users visiting the Hacklab premises. These
 
 Who Can Use The Lab?
 ^^^^^^^^^^^^^^^^^^^^
+The rules for using the lab depend on the local tier applied in Edinburgh.
 
 **At Tier 4:**
 
