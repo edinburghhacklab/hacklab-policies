@@ -1,7 +1,7 @@
 COVID-19 Policy
 ===============
 
-This Hacklab policy includes the measures we are actively taking to mitigate the spread of coronavirus and the steps you must follow if you wish to use the Hacklab facilities. 
+This Hacklab policy includes the measures we are actively taking to mitigate the spread of coronavirus and the steps you must follow if you wish to use the Hacklab facilities. The policy also details times when the Hacklab may require to close during the pandemic.
 
 You are requested to follow all these rules diligently, to ensure a healthy and safe facility for our community. 
 
@@ -9,11 +9,17 @@ This coronavirus (COVID-19) company policy is subject to regular review and chan
 
 This policy is owned by the Edinburgh Hacklab directors. Please email us with any questions or comments.
 
+Status
+------
+Edinburgh is currently in Tier 3 and the Hacklab is open to members. The booking system must be used and the instructions in this policy followed.
+
+The majority of Scotland will move to Tier 4 from Midnight on Christmas Day and the Hacklab will be required to fully close until further notice. Due to Christmas, we will close from Midnight on the 24th December 2020. Members should collect any property they need before this date. Some exceptions apply with approval from the Directors.
+
 Background
 ----------
 Edinburgh Hacklab was closed in March 2020 in response to the start of the COVID-19 pandemic in the UK. We are proud to have responded quickly to protect the health of our community and closed well in advance of the government lockdown. During this time, limited access has been maintained for members to work on essential projects including the production of face shields for the NHS.
 
-With the recent publication of Scottish Government guidance for creative studios (see `https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/ <https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/>`_) and a better understanding of transmission vectors, the directors have agreed it is reasonable to reopen to members on a limited basis with enhanced safety precautions.
+With the publication of Scottish Government guidance for creative studios (see `https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/ <https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/>`_) and the Scottish Tier System, the directors have agreed that it is appropriate to reopen the Hacklab when Edinburgh is in Tier 3 or below. 
 
 Scope
 -----
@@ -35,8 +41,9 @@ Core Principles
 ----------------
 Our policy is based on the following core principles
 
+- Keep within the law, including closing when required to do so
 - Follow the latest government guidance that applies to creative spaces, studios and technology companies
-- Follow any requirements imposed by Summerhall
+- Communicate and follow any requirements imposed by Summerhall
 - Risk assess activities
 - Advise users to keep their use of premises to essential use where possible and encourage "Hacking at Home"
 - Restrict occupancy through the use of a booking system to ensure 2m social distancing at all times
@@ -61,11 +68,36 @@ The following procedures apply to all users visiting the Hacklab premises. These
 
 Who Can Use The Lab?
 ^^^^^^^^^^^^^^^^^^^^
-We are currently only open to members and you must not bring visitors to the Hacklab or allow access to the public. 
+
+**At Tier 4:**
+
+The lab will be closed to members as required by law. The Hacklab is not considered a business providing critical national infrastructure and as such is required to close the premises. Members will be removed from the access control system to enforce this. For information on business restrictions, please see `https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/ <https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/>`_
+
+
+A small number of exceptions apply, although where possible these activities must be carried out from home
+
+- Hacklab management activities (e.g. risk assessment, maintenance, preparation for reopening, cleaning)
+- Production/manufacturing activity (e.g. if the use of the Hacklab provides you with an income and the activity cannot be done elsewhere)
+- Essential vehicle maintenance (e.g. bicycle or car repair)
+- Repair of equipment critical to the basic function of your home (e.g. replacing a plug on your microwave)
+- Recovering property from the storeroom
+- Manufacturing where the critical national infrastructure exemption applies (e.g. volunteering to manufacture face shields)
+
+For clarity, any activities relating to leisure, entertainment or education are not allowed.
+
+If an exception applies, please email the directors for access with details of why you need access and what times would be suitable. We will attempt to accommodate reasonable requests and ensure single occupancy of the rooms you need. The general rules on Tier 3 working (e.g. cleaning, ventilation, masks etc apply).
+
+**At Tier 3:**
+
+The Hacklab will only open to members and you must not bring visitors to the Hacklab or allow access to the public. 
 
 Where you would otherwise be lone working or require assistance with a project for health and safety reasons (e.g. manual handling) you may bring one member of your household (including any bubble) to assist you. If you require this exemption you must ensure that the household member has read this policy, completes contact tracing and that you book exclusive use of the room you are working.
 
 If any other non-member requires access, please contact the Hacklab Directors for approval.
+
+**At Tier 2 and below:**
+
+The Tier 3 policy will be reviewed by directors and relaxation of the rules considered based on the latest guidance and compliance by members. We do not expect to enter this tier until late January/February at the earliest where guidance may change with the emergence of the more virulent strain.
 
 Before Your Visit
 ^^^^^^^^^^^^^^^^^
@@ -77,7 +109,7 @@ Rules:
 - Do not use the Hacklab for social meetups or entertaining. Due to the unsupervised nature of the premises, we are applying the guidance for indoor at-home meetings for social activities.
 
 Advice
-- Check the current COVID-19 zones and travel guidance. Travel in and out of Zone 3 or Zone 4 is currently illegal
+- Check the current COVID-19 zones and travel guidance. Travel in and out of Zone 3 or Zone 4 is illegal
 - Consider how you will get to the Hacklab. Walking, cycling or car are lower risk than using public transport
 - Plan your work carefully as you must fully clear and tidy your work area before your booking ends
 - Consider bringing extra clothes as the Hacklab can be cold when windows are open for ventilation
@@ -85,7 +117,7 @@ Advice
 
 How To Book
 ^^^^^^^^^^^
-The Hacklab Booking System is available at `https://booking.ehlab.uk/ <https://booking.ehlab.uk/>`_ and you can login with your normal Hacklab username and password
+The Hacklab Booking System is available at `https://booking.ehlab.uk/ <https://booking.ehlab.uk/>`_ and you can login with your normal Hacklab username and password. The booking system should be used when Edinburgh is at Tier 3 or below and the Hacklab is open. When the Hacklab is closed in Tier 4, access must be agreed with the Directors.
 
 We have initially set some limits which we will adjust as needed to ensure fairness. If you need to exceed these limits, please email the directors
 
@@ -114,7 +146,7 @@ When you arrive, please follow any one way systems or directions given by Summer
 
 Rules:
 
-- Wear a face covering on the premises at all times, unless you have a medical exemption. This includles within Summerhall corridors and communal areas. The rule applies within the work areas, even with exclusive use, to ensure the safety for the next user. 
+- Wear a face covering on the premises at all times, unless you have a medical exemption. This includes within Summerhall corridors and communal areas. The rule applies within the work areas, even with exclusive use, to ensure the safety for the next user. 
 - Sanitise or wash your hands on arrival. Hand sanitiser is provided, and soap and hot water are available in the G1 kitchen.
 - Use your token on all doors, even if they are on the snib. This allows us to log your visit for contact tracing. 
 - Keep 2m from other users at all times unless they are a member of your household.
@@ -142,13 +174,15 @@ In An Emergency
 - If you need to give first aid to another user, gloves and a mask must be worn. If possible, you should help the casualty to treat themselves while maintaining a distance. All accidents or illness must be reported immediately to the directors.
 - In the event of a fire, please exit the building promptly by the nearest fire exit. Maintain 2m social distancing at the muster point
 
+Please consider the additional risks of lone working and plan accordingly. We advise ensuring that someone knows when you are using the Hacklab and checking in with them when complete.
+
 After Your Visit
 ^^^^^^^^^^^^^^^^
 If you develop COVID-19 symptoms in the 10 days following your visit you must email the directors to enable contact tracing to take place. This is in addition to carrying out the notifications to NHS Test and Trace to enable us to take a proactive approach.
 
 Enforcement
 -----------------
-We hope that all members will abide by these rules as they are designed to keep you and other members of the Hacklab community safe. We understand that guidance may change at short notice and behaviour change is hard so mistakes will be made. We hope minor issues can be dealt with by looking out for each other and reminding others to stay safe. In the event of more serious or repeated rule breaking, the directors will be forced to take action to comply with our legal obligations and ensure we may keep the lab open.
+We hope that all members will abide by these rules as they are designed to keep you and other members of the Hacklab community safe. We understand that guidance may change at short notice and behaviour change is hard so mistakes will be made. We hope minor issues can be dealt with by looking out for each other and reminding others to stay safe. In the event of more serious or repeated rule-breaking, the directors will be forced to take action to comply with our legal obligations and ensure we may keep the lab open.
 
 Minor Issues
 ^^^^^^^^^^^^
@@ -168,14 +202,14 @@ What to do:
 
 Moderate Breaches
 ^^^^^^^^^^^^^^^^^
-We operate a three strikes policy with increasing severity. If you find issues such as housekeeping and tidiness when you arrive at your booking or if someone else is using the space, please email the directors with a picture so we can check who was responsible.
+We operate a three-strikes policy with increasing severity. If you find issues such as housekeeping and tidiness when you arrive at your booking or if someone else is using the space, please email the directors with a picture so we can check who was responsible.
 
 Examples:
 
 - Repeated minor breaches
 - Failure to use the booking system
 - Next user finds room untidy/unclean
-- Leaving the premises unsecure (e.g. closing windows at end of booking)
+- Leaving the premises unsecured (e.g. closing windows at end of the booking)
 - Failure to follow government guidance (e.g. travel restrictions)
 
 What to do:
@@ -187,12 +221,12 @@ What the directors will do:
 - Investigate the situation (e.g. check door logs) and speak to users
 - In the first instance, remind members of the rules and gain agreement that they will comply in future
 - In the second instance, issue a final warning that behaviour must improve and any further incidents within a specified time will result in further action. The time period is at the discretion of the directors
-- A third breach will result in temporary suspension of membership and removal from the access control and booking systems for a time at the discretion of the directors. Membership payments will not be due for any suspension longer than 1 month
+- A third breach will result in a temporary suspension of membership and removal from the access control and booking systems for a time at the discretion of the directors. Membership payments will not be due for any suspension longer than 1 month
 - On return, conditions may be issued to ensure improved behaviour. Continued non-compliance may result in termination of membership.
 
 Serious Breaches
 ^^^^^^^^^^^^^^^^^
-Any serious issues should be immediately brought to the directors as they may require rapid action. Access may be temporarily suspended pending investigation
+Any serious issues should be immediately brought to the directors as they may require rapid action. Access may be temporarily suspended pending an investigation
 
 Examples:
 
@@ -213,4 +247,3 @@ What the directors will do:
 - Investigate the situation and interview those concerned
 - Take appropriate action
 - On return, conditions may be issued to ensure improved behaviour. Continued non-compliance may result in termination of membership.
-
