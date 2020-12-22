@@ -7,13 +7,13 @@ You are requested to follow all these rules diligently, to ensure a healthy and 
 
 This coronavirus (COVID-19) company policy is subject to regular review and changes with the introduction of additional governmental guidelines. If the policy is updated, the directors will update you as soon as possible by email.
 
-This policy is owned by the Edinburgh Hacklab directors. Please email us with any questions or comments.
+This policy is owned by the Edinburgh Hacklab directors. Please email us with any questions or comments (directors@edinburghhacklab.com)
 
 Status
 ------
 Edinburgh is currently in Tier 3 and the Hacklab is open to members. The booking system must be used and the instructions in this policy followed.
 
-The majority of Scotland will move to Tier 4 from Midnight on Christmas Day and the Hacklab will be required to fully close until further notice. Due to Christmas, we will close from Midnight on the 24th December 2020. Members should collect any property they need before this date. Some exceptions apply with approval from the Directors.
+The majority of Scotland will move to Tier 4 from Midnight on Christmas Day and the Hacklab will be required to fully close until further notice. Due to Christmas, we will close from 00:01 on the 26th December 2020. Members should collect any property they need before this date. Some exceptions apply with approval from the Directors.
 
 Background
 ----------
