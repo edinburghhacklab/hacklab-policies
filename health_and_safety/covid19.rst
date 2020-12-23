@@ -35,7 +35,7 @@ We must be vigilant against the spread of coronavirus. It is important that all 
 - A continuous cough - coughing a lot for an hour, or more than three episodes of coughing in 24 hours
 - A loss or change to your sense of smell or taste – you've noticed you cannot smell or taste anything, or things smell or taste different to normal
 
-If you are experiencing **any** of the above symptoms then **DO NOT VISIT THE HACKLAB** and consult the NHS for advice. A symptom checker is available at `https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19/ <https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19/>`_
+If you or anyone in your household is experiencing **any** of the above symptoms then **DO NOT VISIT THE HACKLAB** and consult the NHS for advice. A symptom checker is available at `https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19/ <https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19/>`_
 
 Core Principles
 ----------------
@@ -72,10 +72,9 @@ The rules for using the lab depend on the local tier applied in Edinburgh.
 
 **At Tier 4:**
 
-The lab will be closed to members as required by law. The Hacklab is not considered a business providing critical national infrastructure and as such is required to close the premises. Members will be removed from the access control system to enforce this. For information on business restrictions, please see `https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/ <https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/>`_
+The lab will be closed to members as required by law. Members will be removed from the access control system to enforce this. For information on business restrictions, please see `https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/ <https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/>`_ and the guidance for Creative Studios and Makerspaces referenced above. 
 
-
-A small number of exceptions apply, although where possible these activities must be carried out from home
+A small number of exceptions apply, although where possible these activities must be carried out from home:
 
 - Hacklab management activities (e.g. risk assessment, maintenance, preparation for reopening, cleaning)
 - Production/manufacturing activity (e.g. if the use of the Hacklab provides you with an income and the activity cannot be done elsewhere)
