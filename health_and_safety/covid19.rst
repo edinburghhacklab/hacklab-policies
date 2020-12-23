@@ -1,25 +1,18 @@
 COVID-19 Policy
 ===============
 
-This Hacklab policy includes the measures we are actively taking to mitigate the spread of coronavirus and the steps you must follow if you wish to use the Hacklab facilities. The policy also details times when the Hacklab may require to close during the pandemic.
+This Hacklab policy includes the measures we are actively taking to mitigate the spread of coronavirus and the steps you must follow if you wish to use the Hacklab facilities.
 
 You are requested to follow all these rules diligently, to ensure a healthy and safe facility for our community. 
 
-This coronavirus (COVID-19) company policy is subject to regular review and changes with the introduction of additional governmental guidelines. If the policy is updated, the directors will update you as soon as possible by email.
+This coronavirus (COVID-19) policy is subject to regular review and changes. If the policy is updated, the directors will update you as soon as possible by email.
 
-This policy is owned by the Edinburgh Hacklab directors. Please email us with any questions or comments (directors@edinburghhacklab.com)
+This policy is the responsibility of the Edinburgh Hacklab directors. Please email us with any questions or comments (directors@edinburghhacklab.com)
 
-Status
-------
-Edinburgh is currently in Tier 3 and the Hacklab is open to members. The booking system must be used and the instructions in this policy followed.
+Intention
+---------
 
-The majority of Scotland will move to Tier 4 from Midnight on Christmas Day and the Hacklab will be required to fully close until further notice. Due to Christmas, we will close from 00:01 on the 26th December 2020. Members should collect any property they need before this date. Some exceptions apply with approval from the Directors.
-
-Background
-----------
-Edinburgh Hacklab was closed in March 2020 in response to the start of the COVID-19 pandemic in the UK. We are proud to have responded quickly to protect the health of our community and closed well in advance of the government lockdown. During this time, limited access has been maintained for members to work on essential projects including the production of face shields for the NHS.
-
-With the publication of Scottish Government guidance for creative studios (see `https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/ <https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/>`_) and the Scottish Tier System, the directors have agreed that it is appropriate to reopen the Hacklab when Edinburgh is in Tier 3 or below. 
+The intention of this policy is first and foremost to protect members by reducing the risk of transmission of COVID-19.
 
 Scope
 -----
@@ -29,13 +22,10 @@ Please note that we cannot completely eliminate the risk from coronavirus, howev
 
 Symptoms of Coronavirus
 -----------------------
-We must be vigilant against the spread of coronavirus. It is important that all Hacklab users are aware of the symptoms of COVID-19. These are:
 
-- A raised temperature - either you feel hot to touch on your chest or back, or a thermometer reads 37.8C or higher
-- A continuous cough - coughing a lot for an hour, or more than three episodes of coughing in 24 hours
-- A loss or change to your sense of smell or taste – you've noticed you cannot smell or taste anything, or things smell or taste different to normal
+NHS Scotland provides a COVID-19 Symptom checker at https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19 <https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19>
 
-If you are experiencing **any** of the above symptoms then **DO NOT VISIT THE HACKLAB** and consult the NHS for advice. A symptom checker is available at `https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19/ <https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19/>`_
+If you or a member of your household are experiencing **any** of the these symptoms then **DO NOT VISIT THE HACKLAB** and consult the NHS for advice.
 
 Core Principles
 ----------------
@@ -68,25 +58,11 @@ The following procedures apply to all users visiting the Hacklab premises. These
 
 Who Can Use The Lab?
 ^^^^^^^^^^^^^^^^^^^^
-The rules for using the lab depend on the local tier applied in Edinburgh.
+The rules for using the lab depend on the local tier applied in Edinburgh: https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/ <https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/>
 
 **At Tier 4:**
 
-The lab will be closed to members as required by law. The Hacklab is not considered a business providing critical national infrastructure and as such is required to close the premises. Members will be removed from the access control system to enforce this. For information on business restrictions, please see `https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/ <https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/>`_
-
-
-A small number of exceptions apply, although where possible these activities must be carried out from home
-
-- Hacklab management activities (e.g. risk assessment, maintenance, preparation for reopening, cleaning)
-- Production/manufacturing activity (e.g. if the use of the Hacklab provides you with an income and the activity cannot be done elsewhere)
-- Essential vehicle maintenance (e.g. bicycle or car repair)
-- Repair of equipment critical to the basic function of your home (e.g. replacing a plug on your microwave)
-- Recovering property from the storeroom
-- Manufacturing where the critical national infrastructure exemption applies (e.g. volunteering to manufacture face shields)
-
-For clarity, any activities relating to leisure, entertainment or education are not allowed.
-
-If an exception applies, please email the directors for access with details of why you need access and what times would be suitable. We will attempt to accommodate reasonable requests and ensure single occupancy of the rooms you need. The general rules on Tier 3 working (e.g. cleaning, ventilation, masks etc apply).
+The lab will be closed to members.
 
 **At Tier 3:**
 
@@ -98,7 +74,7 @@ If any other non-member requires access, please contact the Hacklab Directors fo
 
 **At Tier 2 and below:**
 
-The Tier 3 policy will be reviewed by directors and relaxation of the rules considered based on the latest guidance and compliance by members. We do not expect to enter this tier until late January/February at the earliest where guidance may change with the emergence of the more virulent strain.
+The Tier 3 policy will be reviewed by directors and relaxation of the rules considered based on the latest guidance.
 
 Before Your Visit
 ^^^^^^^^^^^^^^^^^
@@ -106,19 +82,18 @@ Please plan your visit carefully. As a Hacklab user you are responsible for mana
 
 Rules:
 - You must book your use of the lab before entering the premises
-- Do not attend the Hacklab if you are required to self-isolate or quarantine (e.g. if you or a household member contracts Coronavirus, if contacted by Test and Trace or in the case of returning from travel)
-- Do not use the Hacklab for social meetups or entertaining. Due to the unsupervised nature of the premises, we are applying the guidance for indoor at-home meetings for social activities.
+- Do not attend the Hacklab if you are required to self-isolate or quarantine, or if you believe you are exhibiting symptoms of COVID-19 (e.g. if you or a household member contracts Coronavirus, if contacted by Test and Trace or in the case of returning from travel)
 
 Advice
-- Check the current COVID-19 zones and travel guidance. Travel in and out of Zone 3 or Zone 4 is illegal
-- Consider how you will get to the Hacklab. Walking, cycling or car are lower risk than using public transport
+- Check the current COVID-19 zones and travel guidance
+- Consider how you will get to the Hacklab
 - Plan your work carefully as you must fully clear and tidy your work area before your booking ends
 - Consider bringing extra clothes as the Hacklab can be cold when windows are open for ventilation
-- Bring your own PPE if you have it
+- Bring your own PPE
 
 How To Book
 ^^^^^^^^^^^
-The Hacklab Booking System is available at `https://booking.ehlab.uk/ <https://booking.ehlab.uk/>`_ and you can login with your normal Hacklab username and password. The booking system should be used when Edinburgh is at Tier 3 or below and the Hacklab is open. When the Hacklab is closed in Tier 4, access must be agreed with the Directors.
+The Hacklab Booking System is available at `https://booking.ehlab.uk/ <https://booking.ehlab.uk/>`_ and you can login with your normal Hacklab username and password. 
 
 We have initially set some limits which we will adjust as needed to ensure fairness. If you need to exceed these limits, please email the directors
 
