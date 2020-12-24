@@ -22,7 +22,6 @@ Please note that we cannot completely eliminate the risk from COVID-19, however,
 
 Symptoms of Coronavirus
 -----------------------
-
 NHS Scotland provides a COVID-19 Symptom checker at https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19 <https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19>. Use this, or other materials provided by NHS Scotland, to keep up-to-date with the latest understood symptoms of COVID-19.
 
 If you, a member of your household, or a member of your support bubble are experiencing **any** of the these symptoms then **DO NOT VISIT THE HACKLAB** and consult the NHS for advice.
