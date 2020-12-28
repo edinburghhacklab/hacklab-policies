@@ -104,11 +104,13 @@ Before Your Visit
 Please plan your visit carefully. As a Hacklab user you are responsible for managing your own risks and you may have specific health concerns making you more susceptible to COVID-19. You should consider the risks to yourself and whether your visit is necessary.
 
 Rules:
+
 - You must book your use of the lab before entering the premises
 - Do not attend the Hacklab if you are required to self-isolate or quarantine (e.g. if you or a household member contracts Coronavirus, if contacted by Test and Trace or in the case of returning from travel)
 - Do not use the Hacklab for social meetups or entertaining. Due to the unsupervised nature of the premises, we are applying the guidance for indoor at-home meetings for social activities.
 
-Advice
+Guidance:
+
 - Check the current COVID-19 zones and travel guidance. Travel in and out of Zone 3 or Zone 4 is illegal
 - Consider how you will get to the Hacklab. Walking, cycling or car are lower risk than using public transport
 - Plan your work carefully as you must fully clear and tidy your work area before your booking ends
@@ -175,6 +177,18 @@ In An Emergency
 - In the event of a fire, please exit the building promptly by the nearest fire exit. Maintain 2m social distancing at the muster point
 
 Please consider the additional risks of lone working and plan accordingly. We advise ensuring that someone knows when you are using the Hacklab and checking in with them when complete.
+
+What To Do If Challenged
+^^^^^^^^^^^^^^^^^^^^^^^^
+During this period, it's possible that the Hacklab may be visited by officials to ensure complaince with the law, guidance and policies. These people may include the Police, Council Officers or Summerhall staff. 
+
+If you are challenged (and working within this guidance), explain that you are carying out permitted work in accordance with the Edinburgh Hacklab COVID-19 policy and refer any enquiry to the directors, providing the official with the directors@edinburgh.hacklab.com email address. Ensure you ask the official for their name, contact phone number, email address and reason for their visit.
+
+Please contact the directors immediately to note the visit and provide us with any details you can. We will liaise with the official for further guidance.
+
+If you are asked to cease the activity and/or shut the lab then please follow these instructions and contact the directors.
+
+Operating outwith this policy is at your own risk and members will be responsible for their own actions including any fines or penalties imposed (e.g. if found to be using the lab for a large social gathering).
 
 After Your Visit
 ^^^^^^^^^^^^^^^^
