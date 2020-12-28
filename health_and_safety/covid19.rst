@@ -7,7 +7,7 @@ You are requested to follow all these rules diligently, to ensure a healthy and 
 
 This coronavirus (COVID-19) company policy is subject to regular review and changes with the introduction of additional governmental guidelines. If the policy is updated, the directors will update you as soon as possible by email to the members' mailing list.
 
-This policy is owned by the Edinburgh Hacklab directors with inputs from the reopening group and wider membership. Please email the directors with any questions or comments at <directors@edinburghhacklab.com>
+This policy is owned by the Edinburgh Hacklab directors with inputs from the reopening group and wider membership. Please email the directors with any questions or comments at directors@edinburghhacklab.com
 
 Status
 ------
@@ -66,7 +66,7 @@ The rules for using the lab depend on the local tier applied in Edinburgh: https
 
 **At Tier 4:**
 
-The lab will be closed to members as required by law. Members will be removed from the access control system to enforce this. For information on business restrictions, please see `https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/ <https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/>`_ and the guidance for Creative Studios and Makerspaces referenced above. 
+The lab will be closed to members as required by law. Members will be removed from the access control system to enforce this. For information on business restrictions, please see `https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/ <https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/>`_ and the guidance for Creative Studios and Makerspaces at `https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/ <https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/>`_. 
 
 A small number of exceptions apply, although where possible these activities must be carried out from home:
 
@@ -115,7 +115,7 @@ Guidance:
 How To Book
 ^^^^^^^^^^^
 
-In order to allow members to communicate with eachother their intentions for using the space (to avoid dissapointments when travelling to find the space is at capacity), a booking system has been implemented. 
+In order to safely manage capacity and avoid disappointment when travelling to the lab, a booking system has been implemented. 
 
 The booking system is available at `https://booking.ehlab.uk/ <https://booking.ehlab.uk/>`_ and you can login with your normal Hacklab username and password. You can reset this password at `https://admin.ehlab.uk/ <https://admin.ehlab.uk>`. 
 
@@ -260,3 +260,12 @@ What the directors will do:
 - Investigate the situation and interview those concerned
 - Take appropriate action
 - On return, conditions may be issued to ensure improved behaviour.
+
+References
+^^^^^^^^^^
+
+- Scottish COVID-19 Legislation `https://www.legislation.gov.uk/ssi/2020/344/contents <https://www.legislation.gov.uk/ssi/2020/344/contents>`_
+- Creative studios guidance `https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/ <https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/>`_
+- Workplace closures: `https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/ <https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/>`_
+- Travel guidance/law: `https://www.gov.scot/publications/coronavirus-covid-19-guidance-on-travel-and-transport/#travellingaroundscotland <https://www.gov.scot/publications/coronavirus-covid-19-guidance-on-travel-and-transport/#travellingaroundscotland>`_
+
