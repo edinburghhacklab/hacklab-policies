@@ -21,7 +21,7 @@ Please note that we cannot completely eliminate the risk from COVID-19, however,
 
 Symptoms of Coronavirus
 -----------------------
-NHS Scotland provides a COVID-19 Symptom checker at https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19 <https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19>. Use this, or other materials provided by NHS Scotland, to keep up-to-date with the latest understood symptoms of COVID-19.
+NHS Scotland provides a COVID-19 Symptom checker at `https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19 <https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19>`_. Use this, or other materials provided by NHS Scotland, to keep up-to-date with the latest understood symptoms of COVID-19.
 
 If you, a member of your household, or a member of your support bubble are experiencing **any** of the these symptoms then **DO NOT VISIT THE HACKLAB** and consult the NHS for advice.
 
@@ -62,7 +62,7 @@ The following procedures apply to all users visiting the Hacklab premises. These
 
 Who Can Use The Lab?
 ^^^^^^^^^^^^^^^^^^^^
-The rules for using the lab depend on the local tier applied in Edinburgh: https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/ <https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/>
+The rules for using the lab depend on the local tier applied in Edinburgh: `https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/ <https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/>`_
 
 **At Tier 4:**
 
@@ -117,7 +117,7 @@ How To Book
 
 In order to safely manage capacity and avoid disappointment when travelling to the lab, a booking system has been implemented. 
 
-The booking system is available at `https://booking.ehlab.uk/ <https://booking.ehlab.uk/>`_ and you can login with your normal Hacklab username and password. You can reset this password at `https://admin.ehlab.uk/ <https://admin.ehlab.uk>`. 
+The booking system is available at `https://booking.ehlab.uk/ <https://booking.ehlab.uk/>`_ and you can login with your normal Hacklab username and password. You can reset this password at `https://admin.ehlab.uk/ <https://admin.ehlab.uk>`_. 
 
 To ensure access to the lab is fairly available to all members, some limits have been set. If you believe you need to exceed these limits, contact the directors who can provide exceptions reviewed on a case-by-case basis. 
 
