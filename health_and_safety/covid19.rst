@@ -11,7 +11,7 @@ This policy is owned by the Edinburgh Hacklab directors with inputs from the reo
 
 Status
 ------
-Edinburgh and most of Scotland has moved to Tier 4 from Midnight on Christmas Day and the Hacklab will is fully closed close until further notice. Some exceptions apply with approval from the Directors.
+Edinburgh and most of Scotland has moved to Tier 4 from Midnight on Christmas Day and the Hacklab is fully closed close until further notice. Some exceptions apply with approval from the Directors.
 
 Scope
 -----
