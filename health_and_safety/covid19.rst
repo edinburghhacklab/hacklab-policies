@@ -11,7 +11,7 @@ This policy is owned by the Edinburgh Hacklab directors with inputs from the reo
 
 Status
 ------
-Edinburgh and most of Scotland has moved to Tier 4 from Midnight on Christmas Day and the Hacklab is fully closed close until further notice. Some exceptions apply with approval from the Directors.
+Edinburgh and most of Scotland has moved to Tier 4 from Midnight on Christmas Day and the Hacklab is fully closed until further notice. Some exceptions apply with approval from the Directors.
 
 Scope
 -----
@@ -264,8 +264,8 @@ What the directors will do:
 References
 ^^^^^^^^^^
 
-- Scottish COVID-19 Legislation `https://www.legislation.gov.uk/ssi/2020/344/contents <https://www.legislation.gov.uk/ssi/2020/344/contents>`_
-- Creative studios guidance `https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/ <https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/>`_
+- Scottish COVID-19 Legislation: `https://www.legislation.gov.uk/ssi/2020/344/contents <https://www.legislation.gov.uk/ssi/2020/344/contents>`_
+- Creative studios guidance: `https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/ <https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/>`_
 - Workplace closures: `https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/ <https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/>`_
 - Travel guidance/law: `https://www.gov.scot/publications/coronavirus-covid-19-guidance-on-travel-and-transport/#travellingaroundscotland <https://www.gov.scot/publications/coronavirus-covid-19-guidance-on-travel-and-transport/#travellingaroundscotland>`_
 
