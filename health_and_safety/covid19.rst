@@ -11,7 +11,7 @@ This policy is owned by the Edinburgh Hacklab directors with inputs from the reo
 
 Status
 ------
-Edinburgh and most of Scotland has moved to Tier 4 from Midnight on Christmas Day and the Hacklab is fully closed until further notice. Some exceptions apply with approval from the Directors.
+Edinburgh and most of Scotland moves to Tier 3 from 26th April and will likely move to Tier 2 from the 17th May. There is no longer a country-wide travel restriction within Scotland although local restrictions may be brought in for cluster management. The lab reopens on a booking only basis from the 26th April. There is no restriction on the type of activity although where work can be carried out at home, it still should be.
 
 Scope
 -----
@@ -64,7 +64,19 @@ Who Can Use The Lab?
 ^^^^^^^^^^^^^^^^^^^^
 The rules for using the lab depend on the local tier applied in Edinburgh: `https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/ <https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/>`_
 
-**At Tier 4:**
+**At Tier 3:**
+
+The Hacklab will open to members and you must not bring visitors to the Hacklab or allow access to the public. 
+
+Where you would otherwise be lone working or require assistance with a project for health and safety reasons (e.g. manual handling) you may bring one member of your household (including any bubble) to assist you. You must ensure that the household member has read and agreed to this policy, provides contact details (in the instance that contact tracing is required) and that you book exclusive use of the room you are working.
+
+If a non-member requires access for any other reason, please contact the Hacklab Directors.
+
+**At Tier 2 and below:**
+
+The Tier 3 policy will be reviewed by directors and relaxation of the rules considered based on the latest guidance and compliance by members. We are likely to enter this Tier in Mid-May.
+
+**In the event of returning to Tier 4:**
 
 The lab will be closed to members as required by law. Members will be removed from the access control system to enforce this. For information on business restrictions, please see `https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/ <https://www.gov.scot/publications/coronavirus-covid-19-businesses-and-workplaces-that-must-close-and-can-open-at-each-protection-level/>`_ and the guidance for Creative Studios and Makerspaces at `https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/ <https://www.gov.scot/publications/coronavirus-covid-19-creative-studios-and-shared-workspaces/>`_. 
 
@@ -81,31 +93,19 @@ For clarity, any activities relating to leisure, entertainment or education are 
 
 If an exception applies, please email the directors for access with details of why you need access and what times would be suitable. We will attempt to accommodate reasonable requests and ensure single occupancy of the rooms you need. The general rules on Tier 3 working (e.g. cleaning, ventilation, masks etc apply).
 
-**At Tier 3:**
-
-The Hacklab will open to members and you must not bring visitors to the Hacklab or allow access to the public. 
-
-Where you would otherwise be lone working or require assistance with a project for health and safety reasons (e.g. manual handling) you may bring one member of your household (including any bubble) to assist you. You must ensure that the household member has read and agreed to this policy, provides contact details (in the instance that contact tracing is required) and that you book exclusive use of the room you are working.
-
-If a non-member requires access for any other reason, please contact the Hacklab Directors.
-
-**At Tier 2 and below:**
-
-The Tier 3 policy will be reviewed by directors and relaxation of the rules considered based on the latest guidance and compliance by members. We do not expect to enter this tier until late January/February at the earliest where guidance may change with the emergence of the more virulent strain.
-
 Before Your Visit
 ^^^^^^^^^^^^^^^^^
 Please plan your visit carefully. As a Hacklab user you are responsible for managing your own risks and you may have specific health concerns making you more susceptible to COVID-19. You should consider the risks to yourself and whether your visit is necessary.
 
 Rules:
 
-- You must book your use of the lab before entering the premises
+- You must book your use of the lab before entering the premises and abide by room capacity limits
 - Do not attend the Hacklab if you are required to self-isolate or quarantine, or if you believe you are exhibiting symptoms of COVID-19 (e.g. if you or a household member contracts Coronavirus, if contacted by Test and Trace or in the case of returning from travel)
-- Do not use the Hacklab for social meetups or entertaining. 
+- You must scan the NHS test and trace posters to check in and check out of the Hacklab
+- Do not use the Hacklab for social meetups or entertaining. As an unstaffed venue, this will be reviewed in line with the in-home rules.
 
 Guidance:
 
-- Check the current COVID-19 zones and travel guidance. The law regarding travel between zones can be found at `https://www.gov.scot/publications/coronavirus-covid-19-guidance-on-travel-and-transport/#travellingaroundscotland <https://www.gov.scot/publications/coronavirus-covid-19-guidance-on-travel-and-transport/#travellingaroundscotland>`_
 - Consider how you will get to the Hacklab. Walking, cycling or car are lower risk than using public transport
 - Plan your work carefully as you must fully clear and tidy your work area before your booking ends
 - Consider bringing extra clothes as the Hacklab can be cold when windows are open for ventilation
@@ -128,15 +128,15 @@ To ensure access to the lab is fairly available to all members, some limits have
 
 Each room has a maximum safe capacity which must be respected to ensure 2m social distancing:
 
-- G1 (Main space) - Two people with access maintained for one person to use the kitchen/shop or pickup mail/printing at any time
+- G1 (Main space) - Four people with access maintained for one person to use the kitchen/shop or pickup mail/printing at any time
 - G2 (Laser cutting) - Individual occupancy only (or two people from one household/support bubble)
 - G8 (Workshop) - Two people. Please note in booking if you need any specific machines to help coordinate
-- G11 (Storage, 3D printers and servers) - Single occupancy with access to storage area for one additional person. When 3D printing, please don't stay longer than necessary. If you need access to the store, knock first due to limited space.
+- G11 (Storage, 3D printers and servers) - Individual occupancy only (or two people from one household/support bubble). When 3D printing, please book space in G1 if you need a work space to enable people to access the storage area.
 - G14 (Electronics) - Individual occupancy only (or two people from one household/support bubble)
 
 All spaces must be booked with the exception for necessary/transient access to the kitchen, shop, printing, mail or storage.
 
-For G1 and G8 we recognise that members who are at higher risk may require exclusive access to the room. You may book both areas if this is required although please note that access to the kitchen/shop may be required by other users. If you need an additional quota to do this then please let the directors know.
+For G8 we recognise that members who are at higher risk may require exclusive access to the room. You may book both areas if this is required. If you need an additional quota to do this then please let the directors know.
 
 If you cannot attend you must cancel your booking as soon as possible to let others attend.
 
@@ -148,10 +148,11 @@ Rules:
 
 - Wear a face covering on the premises at all times, unless you have a medical exemption. This includes within Summerhall corridors and communal areas. The rule applies within the work areas, even with exclusive use, to ensure the safety for the next user. 
 - Sanitise or wash your hands on arrival. Hand sanitiser is provided, and soap and hot water are available in the G1 kitchen.
-- Use your token on all doors, even if they are on the snib. This logs your visit to enable contact tracing if required.
+- Scan the NHS test and trace barcode when you arrive and when you leave for Test and Trace. 
+- Use your token on all doors, even if they are on the snib. This further logs your visit for contact tracing purposes.
 - Keep 2m from other users at all times unless they are a member of your household.
 - Open windows and turn on the ventilation fans (available in G1 and G8) to ensure rooms are well ventilated.
-- Please knock and stand back from a door if you need access to another room (e.g. for a tool or accessing storage). Leave enough time for the user to answer before entering
+- Please knock and stand back from a door if you need access to another room (e.g. for a tool or accessing storage). Leave enough time for the user to answer and respect room capacity limits.
 - Use single use or personal PPE where possible. Disposable earplugs are provided and all users may take one pair of safety glasses for their personal use (please keep in your storage box). Please contact the directors regarding Welding operations or the Grinding shields for a specific risk assessment and safe cleaning procedure.
 - Do not stay beyond your booking
 - Before leaving, fully tidy your work (take it home or leave it in your storage box) and clean your work area including any tools, equipment and PPE used
@@ -186,7 +187,7 @@ Please contact the directors immediately to note the visit and provide us with a
 
 If you are asked to cease the activity and/or shut the lab then please follow these instructions and contact the directors.
 
-Operating outwith this policy is at your own risk and members will be responsible for their own actions including any fines or penalties imposed (e.g. if found to be using the lab for a large social gathering).
+Operating outwith this policy is at your own risk and members will be responsible for their own actions including any fines or penalties imposed (e.g. if found to be using the lab for a social gathering).
 
 After Your Visit
 ^^^^^^^^^^^^^^^^
