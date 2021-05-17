@@ -1,6 +1,8 @@
 COVID-19 Policy
 ===============
 
+Last update: 17th May 2021
+
 This Hacklab policy includes the measures we are actively taking to mitigate the spread of coronavirus and the steps you must follow if you wish to use the Hacklab facilities. The policy also details times when the Hacklab may require to close during the pandemic.
 
 You are requested to follow all these rules diligently, to ensure a healthy and safe facility for our community. 
@@ -11,7 +13,9 @@ This policy is owned by the Edinburgh Hacklab directors with inputs from the reo
 
 Status
 ------
-Edinburgh and most of Scotland moves to Tier 3 from 26th April and will likely move to Tier 2 from the 17th May. There is no longer a country-wide travel restriction within Scotland although local restrictions may be brought in for cluster management. The lab reopens on a booking only basis from the 26th April. There is no restriction on the type of activity although where work can be carried out at home, it still should be.
+Edinburgh and most of Scotland is in Tier 2 from the 17th May. There is no longer a country-wide travel restriction within Scotland although local restrictions apply to Glasgow and Moray which remain at Tier 3. Due to the restrictions on indoor social distancing in business premises remaining at 2m, there are no changes from Tier 3 rules and the lab remains on a booking only basis. There is no restriction on the type of activity although where work can be carried out at home, it still should be.
+
+We note that in-home restrictions in Tier 2 have been substantially reduced and members wishing to socialise may wish to consider arranging activities in their own homes and gardens.
 
 Scope
 -----
@@ -64,7 +68,7 @@ Who Can Use The Lab?
 ^^^^^^^^^^^^^^^^^^^^
 The rules for using the lab depend on the local tier applied in Edinburgh: `https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/ <https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/>`_
 
-**At Tier 3:**
+**At Tiers 2 and 3:**
 
 The Hacklab will open to members and you must not bring visitors to the Hacklab or allow access to the public. 
 
@@ -72,9 +76,11 @@ Where you would otherwise be lone working or require assistance with a project f
 
 If a non-member requires access for any other reason, please contact the Hacklab Directors.
 
-**At Tier 2 and below:**
+Where some areas are in a different Tier to Edinburgh, travel restrictions may apply between regions. Please check current government guidance.
 
-The Tier 3 policy will be reviewed by directors and relaxation of the rules considered based on the latest guidance and compliance by members. We are likely to enter this Tier in Mid-May.
+**At Tier 1:**
+
+The directors will review policy. Significant changes are not expected until the 2m social distancing requirement is reduced/removed.
 
 **In the event of returning to Tier 4:**
 
