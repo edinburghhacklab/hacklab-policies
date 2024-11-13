@@ -2,17 +2,17 @@
 
 import os
 
-needs_sphinx = '1.3'
+needs_sphinx = '4.1'
 extensions = []
 source_suffix = ['.rst']
 
 project = u'Edinburgh Hacklab Policies'
-copyright = u'2018-2019, Edinburgh Hacklab'
+copyright = u'2018-2024, Edinburgh Hacklab'
 author = u'Edinburgh Hacklab'
 
 master_doc = 'index'
 
-language = None
+language = 'en'
 exclude_patterns = ['build', 'Thumbs.db', '.DS_Store']
 pygments_style = 'sphinx'
 
