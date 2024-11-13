@@ -31,7 +31,7 @@ Joining fee
 
 Subscription fees (per month)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* Regular: £25
+* Regular: £35 (£25 if joining before 2024-11-12)
 * Discounted: £15
 * Remote: £10
 
