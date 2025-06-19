@@ -30,8 +30,8 @@ PAT testing will be carried out on a regular basis on electrical equipment in
 the Hacklab.  The schedule will be agreed by the directors based on risk
 assessment and industry guidance.
 
-PAT testing may be carried out by trained members in line with the [PAT
-Testing Code of Practice.](pattestcop.md) Records must be kept of these tests.
+PAT testing may be carried out by trained members in line with the :doc:`PAT
+Testing Code of Practice <pat_test_cop.rst>` Records must be kept of these tests.
 Failed equipment should be labelled and taken out of service for repair or
 replacement.
 
@@ -69,7 +69,7 @@ It is recognised that there will be circumstances where it will be necessary
 and justifiable for work to proceed either on or near to exposed live
 conductors, such as terminals, switches and controllers, etc. This must be
 fully risk assessed and those carrying out such work deemed competent to do
-so. Please see [Live Working Code of Practice](liveworking.md) for details.
+so. Please see :doc:`Live Working Code of Practice <electrical_live_working.rst>` for details.
 
 Faulty Equipment and Equipment Repairs
 --------------------------------------

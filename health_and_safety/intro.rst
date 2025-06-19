@@ -77,25 +77,25 @@ prevent unauthorised access.
 
 Additional risks apply outside normal business hours and Summerhall security
 should be notified when doing so. Details are available in the guidance:
-[Summerhall Security](security.md)
+:doc:`Summerhall Security <../organisation/security.rst>`
 
 Lone working may be relevant at any time when the Hacklab is quiet and should
-be considered when working alone in any room. The [Lone Working Code of
-Practice](loneworking.md) applies.
+be considered when working alone in any room. The :doc:`Lone Working Code of
+Practice <loneworking.rst>` applies.
 
 Fire Safety
 -----------
 
 Fire safety is jointly managed with Summerhall who are responsible for
 maintaining the fire alarms and firefighting equipment on the premises. Their
-policy can be found at: [Summerhall Fire
-Policy](https://wiki.edinburghhacklab.com/_media/fire_emergency_procedure_summerhall.pdf).
+policy can be found at: `Summerhall Fire
+Policy <https://wiki.ehlab.uk/_media/fire_emergency_procedure_summerhall.pdf>`_.
 
 The Hacklab also has special considerations for the laser cutters and for hot
 work (any process generating heat e.g. welding, machining, open flames etc.).
-See [Hot Work Code of Practice](hotwork.md) and [Laser Cutter Code of
-Practice](lasercutter.md) for details. Hot Work may be temporarily restricted
-by the landlords during makor events at Summerhall.
+See :doc:`Hot Work Code of Practice <../activities/hot_work.rst>` and :doc:`Laser Cutter Code of
+Practice <../activities/laser_cutter.rst>` for details. Hot Work may be temporarily restricted
+by the landlords during major events at Summerhall.
 
 Any fire in the Hacklab space must be reported as an accident report to the
 directors including fires within the laser cutter.
@@ -161,7 +161,7 @@ may be able to offer assistance.
 In an emergency, call 999 for help. The Hacklab address is 1 Summerhall Square.
 
 Specific guidance on dealing with unconscious casualties and chemical injuries
-is available at: [First Aid Guidance](firstaid.md)
+is available at: :doc:`First Aid Guidance <first_aid.rst>`.
 
 All injuries and accidents must be reported to the directors. Any injury caused
 by faulty equipment or chemicals should be reported immediately so it may be
