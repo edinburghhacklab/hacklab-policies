@@ -1,4 +1,4 @@
-Lone Working Procedures
+Lone Working Policy
 =======================
 Director Responsibilities
 =========================
