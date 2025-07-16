@@ -3,7 +3,8 @@
 import os
 
 needs_sphinx = '1.3'
-extensions = []
+extensions = ['rst2pdf.pdfbuilder']
+pdf_documents = [('index', u'rst2pdf', u'Sample rst2pdf doc', u'Edinburgh Hacklab'),]
 source_suffix = ['.rst']
 
 project = u'Edinburgh Hacklab Policies'
