@@ -11,3 +11,4 @@ Health and Safety
    electrical_safety
    hazardous_substances
    roof_risk_assessment
+   lone_working
