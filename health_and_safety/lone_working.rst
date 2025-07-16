@@ -1,7 +1,7 @@
 Lone Working Policy
-=======================
+===================
 Director Responsibilities
-=========================
+-------------------------
 
 The Directors are responsible for:
 
@@ -11,8 +11,7 @@ The Directors are responsible for:
 - Providing or identifying personal safety equipment where it is felt to be desirable
 
 Member Responsibilities
-=======================
-
+-----------------------
 Members are responsible for:
 
 - Taking reasonable care of themselves and others affected by their actions
@@ -21,7 +20,7 @@ Members are responsible for:
 - Reporting any dangers or potential dangers that they identify or any concerns they might have in respect of working alone
 
 Guidance for Risk Assessments of Lone Working
-=============================================
+---------------------------------------------
 
 General Arrangements
 --------------------
@@ -42,7 +41,7 @@ Concerns about personal safety in any situation must be referred to the Director
 The Directors must exercise vigilance and ensure that incidents are not overlooked or ignored.
 
 Lone Working Procedures
-=======================
+-----------------------
 
 - If you plan to be alone in the Hacklab, inform a trusted person (such as a spouse, partner, or friend) in advance. Let them know how long you expect to be there and notify them once you have left the space.
 - Keep your phone with you, or another means of communication.
